@@ -1,0 +1,45 @@
+body{
+    background-color: #EEE;
+    font-family: 'Arial', 'Times New Roman', Times, serif;
+}
+
+#header{
+    background-color: #000000;
+    color: white;
+    text-align: right;
+    padding: 10px;
+}
+
+#container{
+    background-color:white;
+}
+
+h1{
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+#SocialMediaLinks{
+    background-color : yellow;
+    color: black;
+    text-align: center;
+}
+
+#githubPicture{
+    border: blue;
+    padding: 20px;
+}
+
+#instagramPicture{
+    border:blue;
+    padding: 20px;
+}
+
+#linkedinPicture{
+    border: blue;
+    padding: 20px;
+}
