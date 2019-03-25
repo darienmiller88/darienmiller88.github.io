@@ -1,6 +1,6 @@
 body{
     background-color: #EEE;
-    font-family: 'Arial', 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', 'Arial', Times, serif;
 }
 
 #header{
@@ -27,6 +27,7 @@ a{
     background-color : yellow;
     color: black;
     text-align: center;
+    padding: 10px;
 }
 
 #githubPicture{
